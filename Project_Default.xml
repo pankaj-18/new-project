@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.views.ProductView" />
+          <option value="app.views.ProductDetailView" />
+          <option value="app.views.add_to_cart" />
+          <option value="app.views.profile" />
+          <option value="app.views.buy_now" />
+          <option value="app.views.orders" />
+          <option value="app.views.address" />
+          <option value="app.views.change_password" />
+          <option value="app.views.mobile" />
+          <option value="app.views.login" />
+          <option value="app.views.customerregistration" />
+          <option value="app.views.checkout" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
